@@ -1,0 +1,7 @@
+echo "# trabajos-unidad1-elizabeth" >> README.md
+git init
+git add .
+git commit -m ""
+git branch -M main
+git remote add origin https://github.com/12elizabethrobles-sketch/trabajos-unidad1-elizabeth.git
+git push -u origin main
